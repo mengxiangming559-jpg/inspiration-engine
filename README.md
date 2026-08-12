@@ -1,2 +1,34 @@
-# inspiration-engine
-My personal AI creative workspace
+# 🧠 灵感引擎 Inspiration Engine
+
+> 我的个人 AI 创意工作空间
+
+## 🎯 项目目标
+
+将一个简单的想法，转化成完整的 AI 内容创作方案。
+
+## ✨ 核心功能
+
+- 💡 灵感生成
+- ✍️ 文案创作
+- 🖼️ AI 图片提示词
+- 🎬 视频分镜
+- 📱 平台适配
+- 📊 内容分析
+
+## 🛠️ 项目状态
+
+🚧 开发中
+
+## 🗺️ 开发计划
+
+- [x] 创建 GitHub 项目
+- [x] 创建 README
+- [ ] 建立 Prompt 系统
+- [ ] 建立内容模板
+- [ ] 加入 AI 创作流程
+- [ ] 开发网页界面
+- [ ] 发布第一版
+
+## 👨‍💻 作者
+
+mengxiangming559-jpg
